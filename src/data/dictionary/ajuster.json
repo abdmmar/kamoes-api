@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "a.jus.ter",
+		"akarKata": null,
+		"ejaan": "ajustêr",
+		"baku": false,
+		"alt": "adjuster",
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "penasihat hukum",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "orang yang menentukan biaya pembayaran asuransi (sesudah terjadi kebakaran dan sebagainya)",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

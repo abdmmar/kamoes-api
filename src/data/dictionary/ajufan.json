@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.ju.fan",
+		"akarKata": null,
+		"ejaan": "ajufan",
+		"baku": false,
+		"alt": "adjuvan",
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "obat yang bekerja membantu berkhasiatnya obat lain",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "farmasi dan farmakologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

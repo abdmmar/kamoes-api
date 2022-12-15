@@ -1,0 +1,39 @@
+[
+	{
+		"sukuKata": "aj.na.bi",
+		"akarKata": null,
+		"ejaan": "ajnabi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "orang asing",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arab",
+						"sumberTeks": null
+					}
+				]
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "orang yang bukan sanak saudara dekat (hukumnya boleh kawin-mengawini antara laki-laki dan perempuan)",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arab",
+						"sumberTeks": null
+					},
+					{
+						"sumber": "agama islam",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

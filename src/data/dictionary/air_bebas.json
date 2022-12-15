@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air bebas",
+		"akarKata": "air",
+		"ejaan": "air bebas",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang terkandung dalam bahan galian yang dapat menguap pada suhu kamar selama 24 jam",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

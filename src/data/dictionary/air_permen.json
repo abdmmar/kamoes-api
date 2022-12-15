@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air permen",
+		"akarKata": "air",
+		"ejaan": "air permen",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "farmasi dan farmakologi",
+				"tipeTeks": "-",
+				"definisi": "larutan jenuh minyak permen dalam air",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air fosil",
+		"akarKata": "air",
+		"ejaan": "air fosil",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang terperangkap dalam ruang di antara batuan dan tetap tinggal di batuan itu sejak penimbunan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

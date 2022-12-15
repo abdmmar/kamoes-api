@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air boron",
+		"akarKata": "air",
+		"ejaan": "air boron",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air dengan atau tanpa kondisi kegaraman dan kebasaan, tetapi mengandung boron dalam jumlah terbatas",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

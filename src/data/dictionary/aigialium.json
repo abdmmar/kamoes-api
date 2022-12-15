@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.gi.a.li.um",
+		"akarKata": null,
+		"ejaan": "aigialium",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "komunitas pantai",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "biologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

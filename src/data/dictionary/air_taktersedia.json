@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air taktersedia",
+		"akarKata": "air",
+		"ejaan": "air taktersedia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "biologi",
+				"tipeTeks": "-",
+				"definisi": "jumlah air yang masih tersedia di tanah saat tumbuhan mencapai titik layu permanennya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

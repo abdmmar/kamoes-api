@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air higroskopis",
+		"akarKata": "air",
+		"ejaan": "air higroskopis",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "meteorologi",
+				"tipeTeks": "-",
+				"definisi": "uap air yang semula terdapat di dalam atmosfer dan kemudian terserap oleh partikel tanah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

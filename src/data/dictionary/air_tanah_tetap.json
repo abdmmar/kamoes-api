@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air tanah tetap",
+		"akarKata": "air",
+		"ejaan": "air tanah tetap",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air tanah yang terdapat dalam material yang jenuh terhadap celah sehingga air itu secara permanen terikat pada dinding pori atau geraknya sangat lambat sehingga tidak tersedia sebagai air untuk dipompa",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

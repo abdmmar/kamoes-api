@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air mampu curah",
+		"akarKata": "air",
+		"ejaan": "air mampu curah",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrometeorologi",
+				"tipeTeks": "-",
+				"definisi": "landasan air di atmosfer yang siap menjadi hujan, sangat berperan dalam menentukan kemungkinan hujan yang akan terjadi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.kal-a.kal",
+		"akarKata": "akal",
+		"ejaan": "akal-akal",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "pura-pura; dibuat-buat",
+				"contoh": "ia sakit ~ saja karena malas ke sekolah",
+				"info": [
+					{
+						"sumber": "cakapan",
+						"sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+					}
+				]
+			}
+		]
+	}
+]

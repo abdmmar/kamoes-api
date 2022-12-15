@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air tersedia",
+		"akarKata": "air",
+		"ejaan": "air tersedia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "banyaknya air dalam tanah pada sebarang waktu yang dinyatakan dalam persentase berat tanah kering",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

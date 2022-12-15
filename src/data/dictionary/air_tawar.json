@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "air tawar",
+		"akarKata": "air",
+		"ejaan": "air tawar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "air biasa tanpa rasa (bukan air manis, bukan air asin)",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang mempunyai kadar garam kurang dari 0,5 %",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

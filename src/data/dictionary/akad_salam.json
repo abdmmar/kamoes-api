@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akad salam",
+		"akarKata": "akad",
+		"ejaan": "akad salam",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "keuangan",
+				"tipeTeks": "-",
+				"definisi": "akad pembiayaan suatu barang dengan cara pemesanan dan pembayaran harga yang dilakukan terlebih dahulu dengan syarat tertentu yang disepakati",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

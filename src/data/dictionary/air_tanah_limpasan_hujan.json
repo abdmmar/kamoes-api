@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air tanah limpasan hujan",
+		"akarKata": "air",
+		"ejaan": "air tanah limpasan hujan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "bagian hujan yang telah meresap ke dalam tanah menjadi air tanah dan masuk ke sungai sebagai mata air",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

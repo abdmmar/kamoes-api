@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.ik.mo.fo.bi.a",
+		"akarKata": null,
+		"ejaan": "aikmofobia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "fobia terhadap jarum atau benda berujung tajam",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "psikologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

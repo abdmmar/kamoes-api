@@ -1,0 +1,44 @@
+[
+	{
+		"sukuKata": "a.jik",
+		"akarKata": null,
+		"ejaan": "ajik",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "enak; lezat",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "cakapan",
+						"sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jik",
+		"akarKata": null,
+		"ejaan": "ajik",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "penganan yang terbuat dari beras pulut putih, dikukus, dimasak dengan gula merah sampai mengeras",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "minangkabau",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

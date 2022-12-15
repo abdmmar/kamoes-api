@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air hidroskopik",
+		"akarKata": "air",
+		"ejaan": "air hidroskopik",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang diserap oleh partikel tanah dari atmosfer berkelembapan tinggi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

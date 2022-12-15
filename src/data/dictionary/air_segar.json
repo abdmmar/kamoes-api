@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air segar",
+		"akarKata": "air",
+		"ejaan": "air segar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "biologi",
+				"tipeTeks": "-",
+				"definisi": "air yang salinitasnya kurang dari 500 ppm",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,21 @@
+[
+	{
+		"sukuKata": "air permukaan",
+		"akarKata": "air",
+		"ejaan": "air permukaan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "semua air yang permukaannya terbuka terhadap atmosfer",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"definisi": "semua perairan pada permukaan tanah; air permukaan laut yang merupakan lapisan campuran air laut itu",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

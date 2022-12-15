@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.jai",
+		"akarKata": null,
+		"ejaan": "ajai",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "verba",
+				"tipeTeks": "kata kerja",
+				"definisi": "bertopang dagu",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "basemah",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

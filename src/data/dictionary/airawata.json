@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.ra.wa.ta",
+		"akarKata": null,
+		"ejaan": "airawata",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "gajah putih yang menjadi kendaraan Dewa Indra",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "agama hindu",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

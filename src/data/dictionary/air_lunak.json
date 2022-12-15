@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "air lunak",
+		"akarKata": "air",
+		"ejaan": "air lunak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang tidak mengandung mineral",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air tanpa kesadahan yang berarti",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.ki.do.ka",
+		"akarKata": null,
+		"ejaan": "aikidoka",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pemain aikido",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "olahraga",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

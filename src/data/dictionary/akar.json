@@ -1,0 +1,59 @@
+[
+	{
+		"sukuKata": "a.kar",
+		"akarKata": null,
+		"ejaan": "akar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "bagian tumbuhan yang biasanya tertanam di dalam tanah sebagai penguat dan pengisap air serta zat makanan",
+				"contoh": "-- pohon ini dapat dibuat obat",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "asal mula; pokok; pangkal; yang menjadi sebab(-sebabnya)",
+				"contoh": "yang perlu dibasmi adalah -- segala kejahatan",
+				"info": [
+					{
+						"sumber": "kiasan"
+					}
+				]
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "unsur yang menjadi dasar pembentukan kata (seperti graf pada grafik, biografi, spektrograf)",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "linguistik",
+						"sumberTeks": null
+					},
+					{
+						"sumber": "kiasan"
+					}
+				]
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "suatu operasi aljabar, yang biasanya dinyatakan dengan simbol √, misalnya √a = b (akar a sama dengan b), berarti; b² = a, jadi √9 = 3; n√a = c (akar pangkat n dari a sama dengan c), berarti cn = a, jadi ∜625 = 5",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "matematika",
+						"sumberTeks": null
+					},
+					{
+						"sumber": "kiasan"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air manis",
+		"akarKata": "air",
+		"ejaan": "air manis",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air yang mengandung residu gliserol yang berasal dari pembuatan sabun",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

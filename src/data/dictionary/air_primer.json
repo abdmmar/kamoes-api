@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air primer",
+		"akarKata": "air",
+		"ejaan": "air primer",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang terdapat dalam suatu batuan sejak waktu pembentukan batuan itu",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

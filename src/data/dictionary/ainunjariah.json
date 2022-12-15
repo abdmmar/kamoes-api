@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.nun.ja.ri.ah",
+		"akarKata": null,
+		"ejaan": "ainunjariah",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "mata air yang mengalir; kali yang mengalir",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arab",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

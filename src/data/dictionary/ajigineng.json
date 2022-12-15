@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.ji.gi.neng",
+		"akarKata": null,
+		"ejaan": "ajiginêng",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pengetahuan mengenai teknik bersanggama",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "jawa",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

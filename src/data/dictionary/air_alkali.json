@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "air alkali",
+		"akarKata": "air",
+		"ejaan": "air alkali",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air mineral yang mengandung bikarbonat dari natrium",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "perairan dengan derajat keasaman di atas 8",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

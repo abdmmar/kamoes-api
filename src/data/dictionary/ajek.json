@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.jek",
+		"akarKata": null,
+		"ejaan": "ajêk",
+		"baku": true,
+		"alt": "ajeg",
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "tetap; teratur; tidak berubah",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "jawa",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

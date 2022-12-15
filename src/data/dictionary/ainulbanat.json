@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.nul.ba.nat",
+		"akarKata": null,
+		"ejaan": "ainulbanat",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "kain yang elok",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "klasik",
+						"sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+					}
+				]
+			}
+		]
+	}
+]

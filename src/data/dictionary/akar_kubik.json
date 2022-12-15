@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar kubik",
+		"akarKata": "akar",
+		"ejaan": "akar kubik",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "bilangan yang jika dikalikan dua kali dengan bilangan itu sendiri menghasilkan suatu bilangan tertentu, misalnya 3 adalah akar kubik 27",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

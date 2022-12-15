@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.le.ron",
+		"akarKata": null,
+		"ejaan": "ailêron",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "sisik yang menutup pangkal sayap depan pada beberapa serangga",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "biologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

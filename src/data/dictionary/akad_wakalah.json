@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akad wakalah",
+		"akarKata": "akad",
+		"ejaan": "akad wakalah",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "keuangan",
+				"tipeTeks": "-",
+				"definisi": "akad pemberian kuasa kepada penerima kuasa untuk melaksanakan suatu tugas atas nama pemberi kuasa",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

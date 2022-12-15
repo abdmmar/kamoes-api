@@ -1,0 +1,29 @@
+[
+	{
+		"sukuKata": "a.ji mum.pung",
+		"akarKata": null,
+		"ejaan": "aji mumpung",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adverbia",
+				"tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+				"definisi": "senyampang atau selagi",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pemanfaatan situasi dan kondisi untuk kepentingan diri sendiri selagi memegang jabatan yang memungkinkan adanya peluang untuk hal itu",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "kiasan"
+					}
+				]
+			}
+		]
+	}
+]

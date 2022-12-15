@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air bebas mineral",
+		"akarKata": "air",
+		"ejaan": "air bebas mineral",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "ilmu gizi",
+				"tipeTeks": "",
+				"definisi": "air yang dimurnikan melalui proses pembebasan garam-garam mineral; air demineralisasi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

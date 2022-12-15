@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air susu jolong",
+		"akarKata": "air",
+		"ejaan": "air susu jolong",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "peternakan",
+				"tipeTeks": "-",
+				"definisi": "air susu yang diekskresikan sejak hari pertama sampai beberapa hari setelah induk hewan melahirkan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air malihan",
+		"akarKata": "air",
+		"ejaan": "air malihan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang terdesak dari batuan pada proses pemalihan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

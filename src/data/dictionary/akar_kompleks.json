@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar kompleks",
+		"akarKata": "akar",
+		"ejaan": "akar kompleks",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "akar suatu persamaan yang merupakan bilangan kompleks dengan bagian imajiner yang bukan nol",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

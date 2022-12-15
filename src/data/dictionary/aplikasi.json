@@ -1,0 +1,46 @@
+[
+	{
+		"sukuKata": "ap.li.ka.si",
+		"akarKata": null,
+		"ejaan": "aplikasi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "karya hias dalam seni jahit-menjahit dengan menempelkan (menjahitkan) guntingan-guntingan kain yang dibentuk seperti bunga (buah, binatang, dan sebagainya) pada kain lain sebagai hiasan",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "tambahan",
+				"contoh": "dalam beberapa fakultas diadakan kursus -- bahasa Inggris",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "penggunaan; penerapan",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "lamaran; permohonan; pendaftaran",
+				"contoh": "ia mendapatkan formulir -- di cabang bank terdekat",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "program komputer atau perangkat lunak yang didesain untuk mengerjakan tugas tertentu",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

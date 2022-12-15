@@ -1,0 +1,30 @@
+[
+	{
+		"sukuKata": "air beriak tanda tak dalam",
+		"akarKata": "air",
+		"ejaan": "air beriak tanda tak dalam",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "orang yang banyak cakap (sombong dan sebagainya) biasanya kurang ilmunya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "beriak",
+		"akarKata": "riak",
+		"ejaan": "beriak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "orang yang banyak cakap (sombong dan sebagainya) biasanya kurang ilmunya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

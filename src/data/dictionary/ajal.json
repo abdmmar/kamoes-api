@@ -1,0 +1,30 @@
+[
+	{
+		"sukuKata": "a.jal",
+		"akarKata": null,
+		"ejaan": "ajal",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "batas hidup yang telah ditentukan Tuhan, saat mati, janji akan mati",
+				"contoh": "menemui --nya",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "batas waktu tertentu berlakunya sesuatu",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arab",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

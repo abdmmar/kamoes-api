@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air susu pengganti",
+		"akarKata": "air",
+		"ejaan": "air susu pengganti",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "peternakan",
+				"tipeTeks": "-",
+				"definisi": "ransum dalam bentuk cair untuk anak hewan ternak yang belum disapih sebagai pengganti air susu induknya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

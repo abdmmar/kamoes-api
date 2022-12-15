@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air adsorpsi",
+		"akarKata": "air",
+		"ejaan": "air adsorpsi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang terikat pada permukaan partikel padat oleh gaya molekul dengan emisi panas",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

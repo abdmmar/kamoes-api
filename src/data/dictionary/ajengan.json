@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.jeng.an",
+		"akarKata": null,
+		"ejaan": "ajêngan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "orang terkemuka, terutama guru agama Islam; kiai",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "sunda",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

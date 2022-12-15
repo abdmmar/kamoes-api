@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air purwa",
+		"akarKata": "air",
+		"ejaan": "air purwa",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang tersekap di dalam batuan reservoir atau air laut yang terperangkap di dalam pori batuan sedimen selama masa sedimentasi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

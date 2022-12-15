@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air suling dua kali",
+		"akarKata": "air",
+		"ejaan": "air suling dua kali",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "biologi",
+				"tipeTeks": "-",
+				"definisi": "air yang dimurnikan dengan jalan distilasi dua kali berturut-turut agar tingkat kemurnian menjadi tinggi dan kadar unsur mineral logam menjadi sangat rendah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,15 @@
+{
+	"deno.enable": true,
+	"deno.importMap": "./import_map.json",
+	"deno.suggest.imports.hosts": {
+		"https://deno.land": true,
+		"https://x.nest.land": true,
+		"https://crux.land": true
+	},
+	"deno.config": "./deno.json",
+	
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"editor.defaultFormatter": "denoland.vscode-deno",
+	
+}

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "a.ka.de.mi.a",
+		"akarKata": null,
+		"ejaan": "akademia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "peserta akademi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

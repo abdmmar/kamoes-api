@@ -1,0 +1,60 @@
+[
+	{
+		"sukuKata": "a.jak.an",
+		"akarKata": "ajak",
+		"ejaan": "ajakan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "anjuran (permintaan dan sebagainya) supaya berbuat; undangan",
+				"contoh": "~ Pemerintah untuk membangun desa disambut baik oleh segenap lapisan masyarakat",
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.ja.kan",
+		"akarKata": null,
+		"ejaan": "ajakan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "lumpur tebal yang terapung",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "banjar",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "a.ja.kan",
+		"akarKata": null,
+		"ejaan": "ajakan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "kelompok ikan besar",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "jawa",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"sukuKata": "a.kan",
+		"akarKata": null,
+		"ejaan": "akan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adverbia",
+				"tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+				"definisi": "(untuk menyatakan sesuatu yang hendak terjadi, berarti) hendak",
+				"contoh": "disangkanya hari -- hujan",
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.kan",
+		"akarKata": null,
+		"ejaan": "akan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "partikel",
+				"tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+				"definisi": "(sebagai kata perangkai untuk menghubungkan verba dan sebagainya dengan pelengkapnya yang berarti): kepada",
+				"contoh": "ia lupa -- orang tuanya",
+				"info": []
+			},
+			{
+				"tipe": "partikel",
+				"tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+				"definisi": "mengenai; tentang; terhadap",
+				"contoh": "-- harta peninggalan orang tuanya itu tiada dipikirkannya lagi",
+				"info": []
+			},
+			{
+				"tipe": "partikel",
+				"tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+				"definisi": "untuk",
+				"contoh": "uang ini dapat kaupakai -- pembayar utangmu",
+				"info": []
+			}
+		]
+	}
+]

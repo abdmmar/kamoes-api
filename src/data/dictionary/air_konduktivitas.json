@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air konduktivitas",
+		"akarKata": "air",
+		"ejaan": "air konduktivitas",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air yang dimurnikan dengan penyulingan berulang",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

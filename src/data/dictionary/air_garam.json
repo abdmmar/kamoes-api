@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air garam",
+		"akarKata": "air",
+		"ejaan": "air garam",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang mempunyai kepekatan garam yang kemasinannya hampir sama dengan kemasinan air laut",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

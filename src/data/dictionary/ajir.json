@@ -1,0 +1,55 @@
+[
+	{
+		"sukuKata": "a.jir",
+		"akarKata": null,
+		"ejaan": "ajir",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "sepotong kayu dan sebagainya yang ditancapkan di tanah untuk merambatkan tanaman",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jir",
+		"akarKata": null,
+		"ejaan": "ajir",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pagar betis",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "batak",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jir",
+		"akarKata": null,
+		"ejaan": "ajir",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pekerja; buruh; upahan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air anaerob",
+		"akarKata": "air",
+		"ejaan": "air anaerob",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air yang tidak mengandung oksigen bebas",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

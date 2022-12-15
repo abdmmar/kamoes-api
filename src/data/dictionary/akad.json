@@ -1,0 +1,61 @@
+[
+	{
+		"sukuKata": "a.kad",
+		"akarKata": null,
+		"ejaan": "akad",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "janji; perjanjian; kontrak",
+				"contoh": "-- jual beli",
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "A.kad",
+		"akarKata": null,
+		"ejaan": "Akad",
+		"baku": false,
+		"alt": "Ahad",
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "hari pertama dalam jangka waktu satu minggu; Minggu",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "(ditulis dengan huruf kecil) satu; esa",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.kad",
+		"akarKata": null,
+		"ejaan": "akad",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "antarkerja antardaerah",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "akronim"
+					}
+				]
+			}
+		]
+	}
+]

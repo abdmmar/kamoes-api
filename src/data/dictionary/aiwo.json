@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "ai.wo",
+		"akarKata": null,
+		"ejaan": "aiwo",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "ilmu kekebalan tubuh dan penangkal kejahatan",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "ilmu untuk menaklukkan perempuan yang diidamkan: pekasih",
+				"contoh": "ia menggunakan --nya untuk membujuk perempuan idamannya",
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"sukuKata": "A.ka.bri",
+		"akarKata": null,
+		"ejaan": "Akabri",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "Akademi Angkatan Bersenjata Republik Indonesia",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "akronim"
+					}
+				]
+			}
+		]
+	}
+]

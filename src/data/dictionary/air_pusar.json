@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air pusar",
+		"akarKata": "air",
+		"ejaan": "air pusar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "olakan besar dengan kecepatan tinggi dalam suatu aliran",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

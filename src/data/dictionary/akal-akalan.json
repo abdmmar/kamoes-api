@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "a.kal-a.kal.an",
+		"akarKata": "akal",
+		"ejaan": "akal-akalan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "tipu daya",
+				"contoh": "bukan sekadar ~ perusahaan",
+				"info": []
+			}
+		]
+	}
+]

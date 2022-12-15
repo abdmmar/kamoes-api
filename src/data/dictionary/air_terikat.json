@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air terikat",
+		"akarKata": "air",
+		"ejaan": "air terikat",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang terikat kuat oleh gaya fisik dan kimiawi sehingga tidak dapat bergerak atau tidak dapat diserap oleh akar tumbuhan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

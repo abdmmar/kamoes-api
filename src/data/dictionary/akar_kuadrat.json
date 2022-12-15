@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar kuadrat",
+		"akarKata": "akar",
+		"ejaan": "akar kuadrat",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "bilangan yang jika dikalikan dengan bilangan itu sendiri menghasilkan suatu bilangan tertentu, misalnya 3 adalah akar kuadrat 9",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

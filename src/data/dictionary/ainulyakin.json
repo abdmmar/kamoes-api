@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.nul.ya.kin",
+		"akarKata": null,
+		"ejaan": "ainulyakin",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "verba",
+				"tipeTeks": "kata kerja",
+				"definisi": "menjadi yakin benar (karena telah menyaksikan sendiri)",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arab",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

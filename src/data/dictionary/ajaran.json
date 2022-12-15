@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "a.jar.an",
+		"akarKata": "ajar",
+		"ejaan": "ajaran",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "segala sesuatu yang diajarkan; nasihat; petuah; petunjuk",
+				"contoh": "ia senantiasa memegang teguh ~ orang tuanya",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "paham",
+				"contoh": "~ terlarang",
+				"info": []
+			}
+		]
+	}
+]

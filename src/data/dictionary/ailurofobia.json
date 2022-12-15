@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.lu.ro.fo.bi.a",
+		"akarKata": null,
+		"ejaan": "ailurofobia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "fobia terhadap kucing; felinofobia",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "psikologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

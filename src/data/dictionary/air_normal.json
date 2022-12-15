@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air normal",
+		"akarKata": "air",
+		"ejaan": "air normal",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrometeorologi",
+				"tipeTeks": "-",
+				"definisi": "air laut yang digunakan sebagai ukuran perbandingan dalam pengukuran klorinitas air, misalnya air laut dengan cara titrasi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

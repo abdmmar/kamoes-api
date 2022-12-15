@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar ganda",
+		"akarKata": "akar",
+		"ejaan": "akar ganda",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "akar suatu persamaan yang berulang kali",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

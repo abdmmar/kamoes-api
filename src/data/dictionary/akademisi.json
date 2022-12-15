@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "a.ka.de.mi.si",
+		"akarKata": null,
+		"ejaan": "akademisi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "orang yang berpendidikan tinggi",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "anggota akademi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

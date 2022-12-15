@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.kap.ni.a",
+		"akarKata": null,
+		"ejaan": "akapnia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "kondisi kekurangan karbon dioksida dalam jaringan dan darah",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "kedokteran dan fisiologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"sukuKata": "a.jun",
+		"akarKata": null,
+		"ejaan": "ajun",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "menyimpang jauh dari sasaran (tujuan)",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "arkais",
+						"sumberTeks": "menandai kata yang tidak lazim"
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jun",
+		"akarKata": null,
+		"ejaan": "ajun",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pembantu (dalam jabatan)",
+				"contoh": "-- jaksa",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "kelompok pangkat golongan bintara tinggi dalam kepolisian di bawah perwira tamtama dan di atas bintara, yang mencakupi ajun inspektur polisi satu dan ajun inspektur polisi dua",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jun",
+		"akarKata": null,
+		"ejaan": "ajun",
+		"baku": true,
+		"alt": "ajung",
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "maksud",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

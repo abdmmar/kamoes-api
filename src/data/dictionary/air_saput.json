@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air saput",
+		"akarKata": "air",
+		"ejaan": "air saput",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "lapisan air yang sangat tipis mengelilingi butiran padat pada titik sentuhnya dengan butiran yang lain membentuk cicin terpisah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

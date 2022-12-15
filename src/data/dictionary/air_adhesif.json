@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air adhesif",
+		"akarKata": "air",
+		"ejaan": "air adhesif",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "pembentukan air di sekeliling partikel tanah di atas air adsorpsi dan ditahan oleh gaya tarikan molekul yang lebih kecil kekuatannya daripada gaya air adsorpsi tanpa emisi panas yang terlihat",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

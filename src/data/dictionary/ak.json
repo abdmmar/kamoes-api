@@ -1,0 +1,42 @@
+[
+	{
+		"sukuKata": "AK",
+		"akarKata": null,
+		"ejaan": "AK",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "angka kredit",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "singkatan"
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "AK",
+		"akarKata": null,
+		"ejaan": "AK",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "senapan otomatis yang dirancang Mikhail Kalashnikov, seorang mantan pejabat militer Rusia; dari avtomat Kalashnikov",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "singkatan"
+					}
+				]
+			}
+		]
+	}
+]

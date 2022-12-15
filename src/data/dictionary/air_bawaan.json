@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air bawaan",
+		"akarKata": "air",
+		"ejaan": "air bawaan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang terikat di dalam celah batuan sedimen ketika terjadi pengendapan sedimen",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

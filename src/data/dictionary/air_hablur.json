@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air hablur",
+		"akarKata": "air",
+		"ejaan": "air hablur",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air kristalisasi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

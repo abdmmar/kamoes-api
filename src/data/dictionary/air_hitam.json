@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air hitam",
+		"akarKata": "air",
+		"ejaan": "air hitam",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "biologi",
+				"tipeTeks": "-",
+				"definisi": "air yang kaya asam humus, tetapi miskin dan rendah konsentrasi haranya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

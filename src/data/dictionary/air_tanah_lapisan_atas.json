@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air tanah lapisan atas",
+		"akarKata": "air",
+		"ejaan": "air tanah lapisan atas",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air di dalam jalur paling atas daerah aerasi dan cukup dekat dengan permukaan, yang akan dilepaskan ke dalam atmosfer",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

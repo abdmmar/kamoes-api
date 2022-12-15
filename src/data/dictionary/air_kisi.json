@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air kisi",
+		"akarKata": "air",
+		"ejaan": "air kisi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang terperangkap dalam pori atau kisi di antara butiran kecil penyusun batuan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

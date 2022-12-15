@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "a.kan-a.kan",
+		"akarKata": "akan",
+		"ejaan": "akan-akan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "mirip benar; hampir sama benar",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

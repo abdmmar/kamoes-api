@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air gravitasi",
+		"akarKata": "air",
+		"ejaan": "air gravitasi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang masuk atau keluar dari tanah karena pengaruh kekuatan gaya tarik bumi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

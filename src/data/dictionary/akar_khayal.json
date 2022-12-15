@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar khayal",
+		"akarKata": "akar",
+		"ejaan": "akar khayal",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "akar kompleks",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

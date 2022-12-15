@@ -1,0 +1,34 @@
+[
+	{
+		"sukuKata": "a.juk",
+		"akarKata": null,
+		"ejaan": "ajuk",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "verba",
+				"tipeTeks": "kata kerja",
+				"definisi": "duga",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.juk",
+		"akarKata": null,
+		"ejaan": "ajuk",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "prakategorial",
+				"tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+				"referensi": [
+					"mengajuk"
+				]
+			}
+		]
+	}
+]

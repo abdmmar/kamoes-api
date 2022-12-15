@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air senak",
+		"akarKata": "air",
+		"ejaan": "air senak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air di bagian tertentu sungai, danau, kolam, atau air tanah yang tidak bergerak atau mengalir",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

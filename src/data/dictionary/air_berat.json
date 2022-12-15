@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air berat",
+		"akarKata": "air",
+		"ejaan": "air berat",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air dengan kadar deuterium tinggi",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

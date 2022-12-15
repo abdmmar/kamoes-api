@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air balas",
+		"akarKata": "air",
+		"ejaan": "air balas",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pelayaran",
+				"tipeTeks": "-",
+				"definisi": "air laut atau air tawar yang diisikan ke kapal untuk tujuan keseimbangan kapal; air tolak bara",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "air mawar",
+		"akarKata": "air",
+		"ejaan": "air mawar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "air yang harum baunya (dari bunga mawar dan sebagainya)",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "farmasi dan farmakologi",
+				"tipeTeks": "-",
+				"definisi": "larutan jenuh minyak mawar dalam air",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

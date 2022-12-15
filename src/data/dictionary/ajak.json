@@ -1,0 +1,74 @@
+[
+	{
+		"sukuKata": "a.jak",
+		"akarKata": null,
+		"ejaan": "ajak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "partikel",
+				"tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+				"definisi": "serupa (dengan); seperti",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "minangkabau",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jak",
+		"akarKata": null,
+		"ejaan": "ajak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "serupa (dengan); seperti",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jak",
+		"akarKata": null,
+		"ejaan": "ajak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "anjing ajak",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jak",
+		"akarKata": null,
+		"ejaan": "ajak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "kalah (tentang permainan anak-anak)",
+				"contoh": "karena tidak pandai bermain, anak itu selalu -- dalam setiap permainan",
+				"info": [
+					{
+						"sumber": "banjar",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

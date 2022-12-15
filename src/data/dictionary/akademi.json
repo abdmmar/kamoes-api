@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "a.ka.de.mi",
+		"akarKata": null,
+		"ejaan": "akademi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "lembaga pendidikan tinggi, kurang lebih 3 tahun lamanya, yang mendidik tenaga profesional",
+				"contoh": "-- militer",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "perkumpulan orang terkenal yang dianggap arif bijaksana untuk memajukan ilmu, kesusastraan, atau bahasa",
+				"contoh": "-- Prancis",
+				"info": []
+			}
+		]
+	}
+]

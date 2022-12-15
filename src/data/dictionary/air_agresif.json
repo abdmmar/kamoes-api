@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air agresif",
+		"akarKata": "air",
+		"ejaan": "air agresif",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air yang mempunyai daya paksa mengalir ke suatu tempat",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

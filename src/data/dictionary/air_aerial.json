@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air aerial",
+		"akarKata": "air",
+		"ejaan": "air aerial",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "biologi",
+				"tipeTeks": "-",
+				"definisi": "semua bentuk air dalam atmosfer",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

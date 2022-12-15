@@ -1,0 +1,44 @@
+[
+	{
+		"sukuKata": "a.kal",
+		"akarKata": null,
+		"ejaan": "akal",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "daya pikir (untuk memahami sesuatu dan sebagainya); pikiran; ingatan",
+				"contoh": "makhluk Tuhan yang mempunyai -- ialah manusia",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "jalan atau cara melakukan sesuatu; daya upaya; ikhtiar",
+				"contoh": "minta -- (kepada)",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "tipu daya; muslihat; kecerdikan; kelicikan",
+				"contoh": "penipu tidak akan kekurangan --",
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "kemampuan melihat atau memahami lingkungan",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "antropologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

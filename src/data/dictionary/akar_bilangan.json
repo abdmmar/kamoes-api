@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar bilangan",
+		"akarKata": "akar",
+		"ejaan": "akar bilangan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "matematika",
+				"tipeTeks": "-",
+				"definisi": "bilangan yang diperoleh dari suatu bilangan yang diuraikan dengan pangkatnya",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

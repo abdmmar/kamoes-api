@@ -1,0 +1,34 @@
+[
+	{
+		"sukuKata": "a.ji-a.ji",
+		"akarKata": null,
+		"ejaan": "aji-aji",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "benda atau mantra yang dijaga dan dirawat secara baik karena dianggap dan dirasakan memiliki kekuatan gaib",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.ji-a.ji",
+		"akarKata": null,
+		"ejaan": "aji-aji",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "ikan laut yang panjangnya mencapai 70 cm, badan pipih, berwarna keperakan dengan belang-belang hitam, duri bagian belakang dari sirip punggung berukuran kecil, hidup di area terumbu karang, tersebar di perairan Laut Merah, Indo-Pasifik Barat, dan Atlantik Tenggara",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

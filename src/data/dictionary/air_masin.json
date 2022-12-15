@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air masin",
+		"akarKata": "air",
+		"ejaan": "air masin",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang mengandung cukup garam yang terlarut sehingga mempunyai rasa mineral tertentu",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

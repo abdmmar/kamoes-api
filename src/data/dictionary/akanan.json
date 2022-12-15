@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.kan.an",
+		"akarKata": "akan",
+		"ejaan": "akanan",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "yang masih akan diselesaikan",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "manajemen",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

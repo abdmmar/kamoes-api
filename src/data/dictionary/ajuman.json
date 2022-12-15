@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.ju.man",
+		"akarKata": null,
+		"ejaan": "ajuman",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "verba",
+				"tipeTeks": "kata kerja",
+				"definisi": "memperbaiki jaring perahu kecil yang rusak",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "madura",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

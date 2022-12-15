@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "akar kata",
+		"akarKata": "akar",
+		"ejaan": "akar kata",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "linguistik",
+				"tipeTeks": "-",
+				"definisi": "bagian kata yang menjadi dasar arti kata lain yang dibentuk dari kata tersebut",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

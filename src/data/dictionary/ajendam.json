@@ -1,0 +1,22 @@
+[
+	{
+		"sukuKata": "a.jen.dam",
+		"akarKata": null,
+		"ejaan": "ajendam",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "ajudan jenderal daerah militer",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "akronim"
+					}
+				]
+			}
+		]
+	}
+]

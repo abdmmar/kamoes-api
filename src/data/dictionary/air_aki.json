@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air aki",
+		"akarKata": "air",
+		"ejaan": "air aki",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "larutan elektrolit untuk sel (aki)",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

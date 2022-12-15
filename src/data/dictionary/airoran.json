@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "Ai.ro.ran",
+		"akarKata": null,
+		"ejaan": "Airoran",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "suku bangsa yang mendiami pesisir pantai utara Papua atau wilayah Memberamo Hilir, Kabupaten Jayapura, Provinsi Papua",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "bahasa yang dituturkan oleh suku Airoran",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

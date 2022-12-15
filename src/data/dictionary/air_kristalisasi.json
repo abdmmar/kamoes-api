@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air kristalisasi",
+		"akarKata": "air",
+		"ejaan": "air kristalisasi",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "kimia",
+				"tipeTeks": "-",
+				"definisi": "air untuk memurnikan padatan yang masih kotor",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

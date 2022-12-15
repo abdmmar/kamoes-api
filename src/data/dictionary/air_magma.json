@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air magma",
+		"akarKata": "air",
+		"ejaan": "air magma",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang berasal dari dalam bumi yang sebelumnya tidak berwujud sebagai air atmosfer atau air permukaan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

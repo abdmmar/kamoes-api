@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.jak-a.jak",
+		"akarKata": null,
+		"ejaan": "ajak-ajak",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "tanda batas kepemilikan tanah sementara berupa potongan kayu yang dipancangkan",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "batak",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

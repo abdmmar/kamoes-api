@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "a.ji.se.si.rep",
+		"akarKata": "aji",
+		"ejaan": "ajisesirep",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "sirep",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

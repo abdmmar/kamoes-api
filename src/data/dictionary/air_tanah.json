@@ -1,0 +1,26 @@
+[
+	{
+		"sukuKata": "air tanah",
+		"akarKata": "air",
+		"ejaan": "air tanah",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"definisi": "semua air yang meresap dari permukaan tanah sampai ke lapisan batuan",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"definisi": "air bawah permukaan dalam zona jenuh",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"definisi": "air yang terdapat dalam pori-pori, celah bantuan, dan tanah dan rentan terhadap pencemaran karena tidak mengalir",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

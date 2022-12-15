@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air celah",
+		"akarKata": "air",
+		"ejaan": "air celah",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air di dalam retakan terbuka, biasanya hanya terdapat di dekat permukaan tanah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.la",
+		"akarKata": null,
+		"ejaan": "aila",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "sebutan bagi sultan atau raja yang meninggal",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "wolio",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

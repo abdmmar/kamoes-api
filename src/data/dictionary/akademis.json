@@ -1,0 +1,25 @@
+[
+	{
+		"sukuKata": "a.ka.de.mis",
+		"akarKata": null,
+		"ejaan": "akademis",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "mengenai (berhubungan dengan) akademi",
+				"contoh": "soal-soal --",
+				"info": []
+			},
+			{
+				"tipe": "adjektiva",
+				"tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+				"definisi": "bersifat ilmiah; bersifat ilmu pengetahuan; bersifat teori, tanpa arti praktis yang langsung",
+				"contoh": "pelajaran yang diberikan terlalu --",
+				"info": []
+			}
+		]
+	}
+]

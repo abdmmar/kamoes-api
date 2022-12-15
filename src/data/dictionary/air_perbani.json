@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air perbani",
+		"akarKata": "air",
+		"ejaan": "air perbani",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pelayaran",
+				"tipeTeks": "-",
+				"definisi": "saat antara timbulnya arus air pasang dan arus air surut; air tenang",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

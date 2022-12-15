@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.is-a.is",
+		"akarKata": null,
+		"ejaan": "ais-ais",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "rotan atau kayu yang digantung pada bubungan rumah adat Simalungun, berfungsi sebagai pegangan saat naik turun tangga",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "batak",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

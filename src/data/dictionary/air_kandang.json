@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air kandang",
+		"akarKata": "air",
+		"ejaan": "air kandang",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang berasal dari kotoran kandang",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

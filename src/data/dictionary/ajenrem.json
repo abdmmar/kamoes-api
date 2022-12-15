@@ -1,0 +1,22 @@
+[
+	{
+		"sukuKata": "a.jen.rem",
+		"akarKata": null,
+		"ejaan": "ajenrem",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "ajudan jenderal resor militer",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "akronim"
+					}
+				]
+			}
+		]
+	}
+]

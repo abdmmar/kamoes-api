@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air jenuh",
+		"akarKata": "air",
+		"ejaan": "air jenuh",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air yang dapat diserap oleh badan tanah yang mengandung air tanpa pemuaian butir tanah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

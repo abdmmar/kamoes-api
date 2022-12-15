@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "ai.lu.ro.fi.li.a",
+		"akarKata": null,
+		"ejaan": "ailurofilia",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "perasaan sayang yang berlebihan pada kucing",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "psikologi",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"sukuKata": "a.jan ke.li.cung",
+		"akarKata": null,
+		"ejaan": "ajan kêlicung",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "pohon yang tingginya mencapai 46 m, daun menjorong, bunga berwarna putih dan harum, buah membulat berwarna hijau sampai kemerah-merahan, kulit batang berwarna cokelat hingga merah tua, kayu berwarna putih, dapat digunakan sebagai bahan bangunan, mebel, dan pembuatan kapal",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "botani",
+						"sumberTeks": null
+					}
+				]
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "maskot atau identitas provinsi Nusa Tenggara Barat",
+				"contoh": null,
+				"info": []
+			},
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "maskot atau identitas provinsi Nusa Tenggara Barat",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "botani",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

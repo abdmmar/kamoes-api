@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.juh",
+		"akarKata": null,
+		"ejaan": "ajuh",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "gelar untuk wanita bangsawan yang telah bersuami",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "madura",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

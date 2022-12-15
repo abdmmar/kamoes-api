@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air tanah bebas",
+		"akarKata": "air",
+		"ejaan": "air tanah bebas",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "pertanian",
+				"tipeTeks": "-",
+				"definisi": "air tanah yang di atasnya dibatasi oleh muka air tanah",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]

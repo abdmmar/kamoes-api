@@ -1,0 +1,39 @@
+[
+	{
+		"sukuKata": "a.jar",
+		"akarKata": null,
+		"ejaan": "ajar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "petunjuk yang diberikan kepada orang supaya diketahui (diturut)",
+				"contoh": null,
+				"info": []
+			}
+		]
+	},
+	{
+		"sukuKata": "a.jar",
+		"akarKata": null,
+		"ejaan": "ajar",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "buah pertama (tentang tanaman)",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "melayu medan",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

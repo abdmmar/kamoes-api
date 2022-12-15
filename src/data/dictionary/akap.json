@@ -1,0 +1,23 @@
+[
+	{
+		"sukuKata": "a.kap",
+		"akarKata": null,
+		"ejaan": "akap",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "nomina",
+				"tipeTeks": "kata benda",
+				"definisi": "penyaring kotoran dalam kuali atau periuk waktu memasak",
+				"contoh": null,
+				"info": [
+					{
+						"sumber": "putuk",
+						"sumberTeks": null
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"sukuKata": "air asli",
+		"akarKata": "air",
+		"ejaan": "air asli",
+		"baku": true,
+		"alt": null,
+		"makna": [
+			{
+				"tipe": "hidrologi",
+				"tipeTeks": "-",
+				"definisi": "air yang berasal dari dalam bumi yang sebelumnya tidak terdapat sebagai air permukaan",
+				"contoh": null,
+				"info": []
+			}
+		]
+	}
+]
