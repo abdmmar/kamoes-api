@@ -8,7 +8,7 @@ import * as path from 'path'
 import { dictionaryPath, getWordDefinition, initDictionary } from './src/dictionary.ts';
 
 const port = 8000;
-const currentDictionary = initDictionary();
+const currentDictionary = await initDictionary();
 
 const app = new Application();
 const snelm = new Snelm('oak', {

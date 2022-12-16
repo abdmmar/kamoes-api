@@ -209,11 +209,11 @@ export async function getWordDefinition(word: string) {
 	}
 }
 
-export function initDictionary() {
-	const currentFiles = Deno.readDirSync(dictionaryPath);
+export async function initDictionary() {
+	const currentFiles = Deno.readDir(dictionaryPath);
 	const files: Map<string, string> = new Map();
 
-	for (const file of currentFiles) {
+	for await (const file of currentFiles) {
 		files.set(
 			file.name.replaceAll('_', ' ').replace('.json', ''),
 			path.join(dictionaryPath, file.name),
