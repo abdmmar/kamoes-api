@@ -3,8 +3,9 @@ import { blue, cyan, green, red } from 'fmt/colors';
 import { Application, isHttpError, Router, Status } from 'oak';
 import { RateLimiter } from 'oak-rate-limit';
 import { Snelm } from 'snelm';
+import * as path from 'path'
 
-import { getWordDefinition, initDictionary } from './src/dictionary.ts';
+import { dictionaryPath, getWordDefinition, initDictionary } from './src/dictionary.ts';
 
 const port = 8000;
 const currentDictionary = initDictionary();
@@ -94,6 +95,7 @@ router.get('/:word', async (ctx) => {
 		}
 
 		const definition = await getWordDefinition(word);
+		currentDictionary.set(word, path.join(dictionaryPath, `${word}.json`));
 
 		if (!definition) ctx.throw(404);
 

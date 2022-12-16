@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "se.la.mat",
+    "akarKata": null,
+    "ejaan": "sêlamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terbebas dari bahaya, malapetaka, bencana; terhindar dari bahaya, malapetaka, bencana; tidak kurang suatu apa; tidak mendapat gangguan, kerusakan, dan sebagainya",
+        "contoh": "ia -- dari pembunuhan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sehat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tercapai maksud; tidak gagal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "doa (ucapan, pernyataan, dan sebagainya) yang mengandung harapan supaya sejahtera (beruntung, tidak kurang suatu apa, dan sebagainya)",
+        "contoh": "ketika ia kawin, banyak handai tolannya yang memberi ucapan -- kepadanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberian salam mudah-mudahan dalam keadaan baik (sejahtera, sehat dan afiat, dan sebagainya)",
+        "contoh": "-- datang",
+        "info": []
+      }
+    ]
+  }
+]

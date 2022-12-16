@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "In.do.ne.si.a",
+    "akarKata": null,
+    "ejaan": "Indonesia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama negara kepulauan di Asia Tenggara yang terletak di antara benua Asia dan benua Australia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangsa, budaya, bahasa bagi negara Indonesia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

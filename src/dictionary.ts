@@ -30,6 +30,8 @@ type Definition = {
 	makna: Array<Makna | ReferensiMakna>;
 };
 
+export const dictionaryPath = path.join(Deno.cwd(), '/src/data/dictionary/');
+
 function cleanup(text: string) {
 	return text.trim().replace(/\d/g, '').replace(/\//g, '');
 }
@@ -208,7 +210,6 @@ export async function getWordDefinition(word: string) {
 }
 
 export function initDictionary() {
-	const dictionaryPath = path.join(Deno.cwd(), '/src/data/dictionary/');
 	const currentFiles = Deno.readDirSync(dictionaryPath);
 	const files: Map<string, string> = new Map();
 

@@ -2,10 +2,10 @@
 	"$schema": "https://deno.land/x/deno@v1.29.0/cli/schemas/config-file.v1.json",
 
 	"importMap": "import_map.json",
+	"tasks": {
+		"dev": "denon run --allow-net --allow-read --allow-write index.ts"
+	},
 	"fmt": {
-		"files": {
-			"include": ["*"]
-		},
 		"options": {
 			"useTabs": true,
 			"lineWidth": 100,
